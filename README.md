@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Rawat</h1>
 <h3 align="center">Passionate Engineering Student | Problem Solver from India</h3>
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
 
 - 🌱 I’m currently learning **Data Structures & Algorithms and Generative AI & LLM Fundamentals**
 
